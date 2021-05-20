@@ -1,0 +1,64 @@
+{
+    "products": [
+       {"_id": "panadol",
+        "title": "ARC InstaTemp Digital Infrared Thermometer", 
+        "image": "/images/AventBabyFoodSteamer.jpeg",
+        "description": "This is ideal for mothers with weaning children",
+        "price": 19,
+        "How to use": "Hold the ARC InstaTemp Thermometer an inch away from the forehead and press the button. Release the button once the LED display is illuminated and a temperature reading is displayed on the screen. The temperature reading is displayed for 4 seconds",
+        "Precautions": "Refer to the user manual inside on how it operates.",
+        "availableType": ["Syrup", "Tablets"]
+    },
+           {"_id": "panadol",
+        "title": "Avent Baby Food Steamer+Blender+Thermal Bag", 
+        "image": "/images/AventBabyFoodSteamer.jpeg",
+        "description": "This is ideal for mothers with weaning children and those who are constantly in the move, It contains a food steamer which is ideal for warming the baby's food while on the move. It also has a blender which i generally for blending what may be required and it further has a thermal bag which is handy in keeping the baby's food warm..",
+        "price": 19,
+        "availableType": ["Syrup", "Tablets"]
+    },
+    {"_id": "panadol",
+        "title": "Panadol", 
+        "image": "/images/AventBabyFoodSteamer.jpeg",
+        "description": "About Panadol",
+        "price": 19,
+        "availableType": ["Syrup", "Tablets"]
+    },
+           {"_id": "panadol",
+        "title": "Panadol", 
+        "image": "/images/AventBabyFoodSteamer.jpeg",
+        "description": "About Panadol",
+        "price": 19,
+        "availableType": ["Syrup", "Tablets"]
+    },
+     {"_id": "panadol",
+        "title": "Panadol", 
+        "image": "/images/AventBabyFoodSteamer.jpeg",
+        "description": "About Panadol",
+        "price": 39,
+        "availableType": ["Syrup", "Tablets"]
+    },
+           {"_id": "panadol",
+        "title": "Panadol", 
+        "image": "/images/AventBabyFoodSteamer.jpeg",
+        "description": "About Panadol",
+        "price": 13,
+        "availableType": ["Syrup", "Tablets"]
+    },
+    {"_id": "panadol",
+        "title": "Panadol", 
+        "image": "/images/AventBabyFoodSteamer.jpeg",
+        "description": "About Panadol",
+        "price": 77,
+        "availableType": ["Syrup", "Tablets"]
+    },
+           {"_id": "panadol",
+        "title": "Panadol", 
+        "image": "/images/AventBabyFoodSteamer.jpeg",
+        "description": "About Panadol",
+        "price": 45,
+        "availableType": ["Syrup", "Tablets"]
+    } 
+
+
+    ]
+}
